@@ -3,8 +3,8 @@
 class app
 {
 
-    private static $name = '';
-    private static $bot_token = '';
+    private static $name = '@H4ck3erS_bot';
+    private static $bot_token = '2128105874:AAHObulUy1360Ptrp9ep87oy4FTrp1BhWGc';
 
     public static function setName(string $name)
     {
